@@ -1,2 +1,1 @@
 
-BOT_TOKEN = '8193576057:AAHEBVUrqDN3OWtLYZ3iJoWe5ukI5fUmkhM'  # Bot token
